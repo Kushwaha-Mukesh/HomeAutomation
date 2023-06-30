@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-homeautomation-dev-171411-authRole",
+      "UnauthRoleArn": "arn:aws:iam::273867346811:role/amplify-homeautomation-dev-171411-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::273867346811:role/amplify-homeautomation-dev-171411-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-homeautomation-dev-171411-deployment",
+      "UnauthRoleName": "amplify-homeautomation-dev-171411-unauthRole",
+      "StackName": "amplify-homeautomation-dev-171411",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:273867346811:stack/amplify-homeautomation-dev-171411/83132910-134b-11ee-ae2a-0279b691eeee",
+      "AmplifyAppId": "d2xeyf3qewxtlp"
+    }
+  }
+}
